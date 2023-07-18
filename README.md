@@ -1,13 +1,11 @@
 # applicantAssignments
 
 Assignment: Flutter Developer
-
 Thank you for your interest in the position of Flutter Developer at Zucol. To further assess your skills and abilities, we would like you to complete the following assignment.
 
 ![AttendanceScreen](https://github.com/jangir-ritik/applicantAssignments/assets/115213651/d5f86077-4608-4773-9303-53ceb2b5d67c)
 
 Assignment Details:
-
 1. Create a flutter application with a single screen (Attendance screen)
 2. Requirements: 
 - Implement the following design into code.
