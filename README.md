@@ -16,6 +16,8 @@ Assignment Details:
 - Pay attention to code organization, readability, and best practices.
 - Feel free to use any external packages that you find suitable for the assignment.
 - Provide clear instructions on how to run and test your application.
+- All the required assets can be found in assets folder of this repo.
+- Use mock data to populate the UI.
 4. Submission instructions: 
 - Fork this repository to your GitHub account.
 - Create a new branch with the format "assignment/[your-name]/flutter-developer". (eg. if your name is Anurag, the format should be "assignment/anurag/flutter-developer"
