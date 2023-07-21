@@ -7,6 +7,9 @@ Thank you for your interest in the position of Flutter Developer at Zucol. To fu
 
 Assignment Details:
 1. Create a flutter application with a single screen (Attendance screen)
+- Two Calendar components should be used. (A calendar strip view and a month wise calendar view)
+- Saturday and Sunday should not be selectable.
+- 
 2. Requirements: 
 - Implement the following design into code.
 3. Guidelines:
@@ -15,6 +18,7 @@ Assignment Details:
 - Feel free to use any external packages that you find suitable for the assignment.
 - All the required assets can be found in assets folder of this repo.
 - Use mock data to populate the UI.
+- You'd be assessed on the quality of designs and common sense practices.
 4. Submission instructions: 
 - Fork this repository to your GitHub account.
 - Create a new branch with the format "assignment/[your-name]/flutter-developer". (eg. if your name is Anurag, the format should be "assignment/anurag/flutter-developer"
